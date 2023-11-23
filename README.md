@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋🏼 I'm WEB/APP developer! <br>
+Hi 👋🏼 <br>
 I’m currently learning in HGU. ✨
 
 #### 👩‍💻 My Tech Blog 
